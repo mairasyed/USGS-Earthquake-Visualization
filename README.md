@@ -111,10 +111,8 @@ We can visualize the data on the map for earthquakes details and the relationshi
 
 ### 10 Deployment
 
-This dashboard is deployed on [GitHub Pages](https://mairasyed.github.io/USGS_Earthquake_Visualizations/).
-
+This dashboard is deployed on [GitHub Pages](https://mairasyed.github.io/USGS-Earthquake-Visualization/)
 
 ## Author
 
-## [Jalees Moeen GitHub](https://github.com/MairaSyed)
-
+## [Maira Syed GitHub](https://github.com/mairasyed)
